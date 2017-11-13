@@ -8,8 +8,10 @@ table {
 }
 
 .table-classy {
-	font-family: "Arial";
-	
+	font-family: "Arial";	
+}
+.table-diff {
+	color: yellow;
 }
 td {
 	text-align: center;
