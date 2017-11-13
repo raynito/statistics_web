@@ -6,13 +6,6 @@ table {
 	border-style: solid;
 	border-color: cyan;
 }
-
-.table-classy {
-	font-family: "Arial";	
-}
-.table-diff {
-	color: yellow;
-}
 td {
 	text-align: center;
 	border-width: 2px;
@@ -27,7 +20,16 @@ th {
 	background-color: blue;
 	color: white;
 }
-
+.table-classy {
+	font-family: "Arial";	
+}
+.table-diff {
+	background-color: white;
+	color: black;
+}
 .td-just {
 	text-align: justify;
+}
+.centered{
+	text-align: center;
 }
